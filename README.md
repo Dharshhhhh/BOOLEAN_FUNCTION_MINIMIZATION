@@ -63,11 +63,11 @@ TRUTH TABLE:
 
 
 **RTL realization**
-
-![2 ro](https://github.com/user-attachments/assets/cb340976-5ae1-445f-b25f-6a7613565057)
+![2 o](https://github.com/user-attachments/assets/6defb27a-72af-46fa-a89c-9c028ece91d5)
 
 **Output:**
-![2 o](https://github.com/user-attachments/assets/6defb27a-72af-46fa-a89c-9c028ece91d5)
+![2 ro](https://github.com/user-attachments/assets/cb340976-5ae1-445f-b25f-6a7613565057)
+
 
 **Result:**
 
